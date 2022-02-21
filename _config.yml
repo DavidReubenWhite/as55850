@@ -29,10 +29,11 @@ url: "https://davidreubenwhite.github.io" # the base hostname & protocol for you
 twitter_username: jekyllrb
 github_username:  jekyll
 
-search_enabled: true
+search_enabled: false
 
 # Build settings
-remote_theme: pmarsceill/just-the-docs
+# remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 
 plugins:
   - jekyll-feed
